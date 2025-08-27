@@ -91,8 +91,13 @@ Advanced Smoothing: Uses Gaussian-based smoothing methods
 
 File Structure
 SAM_Interactive_GUI.m       # Main application file
+
 ├── GUI Setup Functions    # Interface creation and layout
+
 ├── Image Processing       # SAM integration and mask processing  
+
 ├── Selection Methods      # Multiple object selection algorithms
+
 ├── Shape Enhancement      # Advanced smoothing and shape control
+
 └── Utility Functions      # Helper functions and callbacks
