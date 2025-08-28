@@ -1,6 +1,7 @@
 # Segment-Everything-MATLAB-Interactive-Code
 A advanced MATLAB GUI application for interactive image segmentation using Segment Anything Model (SAM). This tool provides a user-friendly interface for precise object segmentation with multiple selection methods and shape processing capabilities.
 <img width="1490" height="942" alt="image" src="https://github.com/user-attachments/assets/4ef99b19-871a-4939-b0fd-b66c4c423897" />
+<img width="1502" height="948" alt="image" src="https://github.com/user-attachments/assets/5f374676-707d-4a08-978e-049e8a0701e2" />
 
 <img width="1495" height="943" alt="image" src="https://github.com/user-attachments/assets/89aa1d4c-5a8d-4c7e-bb1e-bbc436b3cdac" />
 
